@@ -70,7 +70,7 @@ In the competitive online retail space, targeted marketing is essential for maxi
 
 ## 🚀 Running the Code
 
-**Dependencies**: Ensure you have the following libraries installed: `pandas`, `numpy`, `scikit-learn`.
+**Dependencies**: Ensure the following libraries are installed: `pandas`, `numpy`, `scikit-learn`.
 
 This command trains the model using the training data and evaluates it on the test dataset.
 
@@ -97,7 +97,7 @@ The logistic regression model effectively predicts user engagement with the TV p
 ### Key Observations:
 
 #### Influential Features:
-- **Users with prior visits to the TV product page (`tv.html`)** are more likely to click the promotional email.
+- **Users with prior visits to the TV product page** are more likely to click the promotional email.
 - **Higher total time spent on the website** correlates with increased engagement.
 - **Recency of website visits** (e.g., `days_since_last_visit`) impacts user responsiveness.
 
